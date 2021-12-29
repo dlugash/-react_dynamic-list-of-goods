@@ -1,6 +1,6 @@
 # React dynamic list of goods
 
-[DEMO](https://dlugash.github.io/-react_dynamic-list-of-goods/)
+[DEMO](https://dlugash.github.io/react--dynamic-list-of-goods/)
 
 ## Task
 
